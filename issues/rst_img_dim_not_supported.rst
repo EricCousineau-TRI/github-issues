@@ -12,3 +12,5 @@ This following image should only be ``40px`` wide::
    :width: 40px
 
 As seen, it is not. If you inspect the HTML source, it only indicates ``max-width: 100%``.
+
+See `Counterexample <rst_img_dim_counterexample.md>`__ (Markdown).
